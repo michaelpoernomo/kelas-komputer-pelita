@@ -1,7 +1,7 @@
 # Single-page Application created with React and Firebase
 
 This is a starter project to build a single-page application with react and firebase.
-This project was once developed to share teaching materials and assignments in an online teaching computer class.
+This project was once developed to share teaching materials and assignments in an online teaching class.
 
 ##### Webpages
 
